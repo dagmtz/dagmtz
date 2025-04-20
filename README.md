@@ -5,11 +5,11 @@ This is dagmtz, writing to you from somewhere in the past. Want to know about me
 ```C
 struct human dagmtz = {
     .name = "Daniel Martínez",
-    .age = 27,
+    .age = 28,
     .birthplace = "Oaxaca, Mexico",
     .likes = ["🧗", "🏊", "🏃‍➡️", "🏕", "🐧💻", "☕", "🎹", "🎸", "🖋"],
     .speaks = ["Español", "English", "Deutsch", "Française"],
-    .codes = ["C/C++", "Python", "Shell"]
+    .codes = ["C/C++", "sh". "Python", "Rust"]
 };
 ```
 
